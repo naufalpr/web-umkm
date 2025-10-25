@@ -1,3 +1,5 @@
+export const CATEGORIES = ["All", "Makanan", "Minuman", "Jasa"];
+
 export const UMKMS = [
   {
     id: "umkm-1",
@@ -36,7 +38,7 @@ export const UMKMS = [
     mapsLink: "https://www.google.com/maps?q=-7.966881,112.615222&z=16&output=embed",
     photos: ["/src/assets/WarungBuLia.jpeg"],
   },
-   {
+  {
     id: "umkm-5",
     name: "Nakoa Cafe Bondowoso",
     category: "Minuman",
