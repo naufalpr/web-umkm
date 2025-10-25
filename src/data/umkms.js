@@ -1,5 +1,3 @@
-export const CATEGORIES = ["All", "Makanan", "Minuman", "Jasa"];
-
 export const UMKMS = [
   {
     id: "umkm-1",
